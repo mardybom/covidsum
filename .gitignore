@@ -1,0 +1,9 @@
+.idea
+coverage.out
+run.sh
+run.bat
+.DS_Store
+*.code-workspace
+database.yml
+schema.sql
+covidsum
